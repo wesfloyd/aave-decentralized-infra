@@ -8,9 +8,9 @@
 
 ## Milestone 2: Architecture & Migration Plan
  
- Enhanced architecture and work plan to mitigate Centralization Risk Score for each workload including.
+ Enhanced architecture and work plan to mitigate Centralization Risk Score for each workload.
 
- (todo: work products will be posted here)
+[Architecture and Migration Plan](https://docs.google.com/document/d/1zudCtnGfHeNioUu3rh0SfNr17sA5a8AyadX-cpABQSI/edit#bookmark=id.fwwlsffbmt46)
 
  
 ## Milestone 3: Proof of Concept
