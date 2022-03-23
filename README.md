@@ -3,7 +3,7 @@
 
 ## Milestone 1: Inventory Plan
  
- [Aave Cloud Workload Inventory](https://docs.google.com/spreadsheets/d/1esom0DIDzEMOJR3puAHIi0CfxLHFpHhfApMMKVuMiJE/edit?usp=sharing) (Draft): an inventory of core services operating on centralized cloud infrastructure and a Centralization Risk Score for each.
+ [Aave Cloud Workload Inventory](https://docs.google.com/spreadsheets/d/1esom0DIDzEMOJR3puAHIi0CfxLHFpHhfApMMKVuMiJE/edit?usp=sharing): an inventory of core services operating on centralized cloud infrastructure and a Centralization Risk Score for each.
   
 
 ## Milestone 2: Architecture & Migration Plan
